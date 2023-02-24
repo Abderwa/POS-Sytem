@@ -1,2 +1,2 @@
 # POS-Sytem
-(POS) Point of Sale System, which is a platform similar to the one used in restaurants and shops sell, keep track of inventory and take paiments.... READ ME for more
+(POS) Point of Sale System, which is a platform similar to the one used in restaurants and shops to sell, keep track of inventory and take paiments. Developed using Java. I used WindowBuilder to design it. Eclipse WindowBuilder is composed of Eclipse SWT Designer and Eclipse Swing Designer and makes it very easy to create Java GUI applications, it generates the code while you are designing it. Eventually I added some functions to make the buttons work and do what they are suppsed to do.  
